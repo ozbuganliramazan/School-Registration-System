@@ -1,5 +1,5 @@
-# Getting Started with Create React App
 #School Enrollment
+
 ##My school registration project.. React, react-router-dom Axios data extraction, deletion and updating processes and display of registered students on the screen.
 [![Watch the video](okul.gif)]
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
